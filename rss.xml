@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[dylanoshima]]></title>
-        <description><![CDATA[dylanoshima]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Catalysm Practice]]></title>
+        <description><![CDATA[Catalysm Practice]]></description>
+        <link>https://thegrid.ai/dylanoshima/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 08:53:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 20 May 2016 08:59:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dylanoshima/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p></p>]]></description>
-            <link>undefined99f986ae-9479-4980-8fd3-1bd15841223c/index.html</link>
+            <title><![CDATA[Kanna Twisk]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/433b5c2a-cce9-4ff6-866f-dd0f4c101e5a.jpg">]]></description>
+            <link>https://thegrid.ai/dylanoshima/99f986ae-9479-4980-8fd3-1bd15841223c/index.html</link>
             <guid isPermaLink="false">99f986ae-9479-4980-8fd3-1bd15841223c</guid>
-            <pubDate>Fri, 20 May 2016 08:53:34 GMT</pubDate>
+            <pubDate>Fri, 20 May 2016 08:59:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
